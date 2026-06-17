@@ -1,0 +1,6 @@
+# GET https://prices.azure.com/api/retail/prices?api-version=2023-01-01-preview&meterRegion='primary'
+
+
+
+GET https://prices.azure.com/api/retail/prices?$filter=serviceName eq 'Azure Cosmos DB' and location eq 'US West' and currencyCode eq 'USD' 
+#and location eq 'US West'
