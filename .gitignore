@@ -1,6 +1,6 @@
 __pycache__
 .venv/
-/azure_prices_items_20260603165532
+/output_data
 *.xlsx
 *.json
 .DS_store
